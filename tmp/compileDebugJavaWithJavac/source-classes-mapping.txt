@@ -1,0 +1,5 @@
+com/example/uncon/BuildConfig.java
+ com.example.uncon.BuildConfig
+com/example/uncon/MainActivity.java
+ com.example.uncon.MainActivity
+ com.example.uncon.MainActivity$1
